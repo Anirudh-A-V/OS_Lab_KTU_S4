@@ -38,4 +38,14 @@ This repo is created for educational purposes. Feel free to contribute it as a p
 6. Press Enter to create your local clone.
 <br/>
 
+
+## Contributors ✨
+
+<a href="https://github.com/Anirudh-A-V/OS_Lab_KTU_S4/graphs/contributors">
+  
+  <img src="https://contrib.rocks/image?repo=Anirudh-A-V/OS_Lab_KTU_S4"/>
+
+</a>
+
+
 #### Don't Forget to leave a star :star:
