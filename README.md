@@ -3,12 +3,16 @@
 This repo is created for educational purposes. Feel free to contribute it as a part of Hacktoberfest 2022.
 
 # How to Contribute
-
 1. Leave a star and fork the repository :wink:
 2. Now clone the repository.
 3. Goto the repository directory in your code editor and start coding a program or simply add one from elsewhere.
 4. Commit your changes and push them to your repository.
 5. Open a pull request and type in some description. That's it.
+
+# What to contribute
+1. Upload the programs done in your OS Lab
+2. Add documentation to each experiment, like the aim of the experiment and algorithms
+3. Or you can upload the pdf/docx of your OS record. Make sure to create a separate folder for it :grin:
 
 ## How to clone a repository
 
@@ -32,3 +36,6 @@ This repo is created for educational purposes. Feel free to contribute it as a p
     ```
 
 6. Press Enter to create your local clone.
+<br/>
+
+#### Don't Forget to leave a star :star:
